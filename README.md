@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yashtalekar
+- 👋 Hi, I’m Yash.
 - 🌱 I’m currently learning Full-Stack Webdev with React.
 
 
