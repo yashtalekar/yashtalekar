@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yash.
 - 🌱 I used to work as a software developer at the Queensland Department of Environment and Science (DES). Most of my work is on a React-Typescript Web App which makes extensive use of Open Layers and other mapping technology.
-- Currently a software engineer @ endla.
+- 🪴 Currently a software engineer @ endla.
 
 Besides this, I have dabbled in Machine Learning, you can find a Pokemon Classifier I made pinned below as well as some Image Segmentation I've done [here](https://github.com/yashtalekar/PatternFlow/tree/topic-recognition/recognition/s4524723_UNet_ISIC).
 
